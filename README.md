@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am a computer programming student.I am interested in backend and frontend.Recently I've been working with JavaScript, Asp.NET Core, Asp.NET Core MVC and some web front-end libraries.<br>
 
 
