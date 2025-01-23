@@ -10,7 +10,6 @@ Hi, I'm Mehmet Kızılboğa. During my computer programming education, I focused
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkediln&logoColor=white)](https://www.linkedin.com/in/mehmetkizilboga/)
-//[![Medium](https://img.shields.io/badge/Medium-12100E?logo=mediuml&logoColor=white)](https://medium.com/@1burak_g)
 
 ## IDE:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
