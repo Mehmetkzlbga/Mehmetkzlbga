@@ -1,27 +1,29 @@
-#  About Me:
-I am a computer programming student.I am interested in backend and frontend.Recently I've been working with JavaScript, Asp.NET Core, Asp.NET Core MVC and some web front-end libraries.<br>
+##  About Me:
 
+Türkçe:
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehmet.kizilboga0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mehmetkizilboga/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mehmetkzlbg) 
+Merhaba, ben Mehmet Kızılboğa. Bilgisayar programcılığı eğitimim boyunca frontend ve backend geliştirmeye odaklandım. Mezun olduktan sonra bu alanda kendimi geliştirmeye devam ettim. Yeni teknolojileri keşfetmek ve sürekli öğrenmek, yazılım dünyasında beni motive eden en büyük etkenler arasında. Son zamanlarda kendimi Backend alanında ASP .NET Core teknolojisinde geliştiriyorum.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mehmetkzlbga&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mehmetkzlbga&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmetkzlbga&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+English:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mehmetkzlbga&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+Hi, I'm Mehmet Kızılboğa. During my computer programming education, I focused on frontend and backend development. After graduating, I continued to improve myself in this field. Discovering new technologies and constantly learning are among the biggest factors that motivate me in the software world. Recently, I've been developing myself in the Backend field ASP .NET Core technology.
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Mehmetkzlbg)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkediln&logoColor=white)](https://www.linkedin.com/in/mehmetkizilboga/)
+//[![Medium](https://img.shields.io/badge/Medium-12100E?logo=mediuml&logoColor=white)](https://medium.com/@1burak_g)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## IDE:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=Mehmetkzlbga&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharpp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.nett&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html55&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css33&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=boottstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=jjavascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=gitt&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=gitthub&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlitee&logoColor=white)
